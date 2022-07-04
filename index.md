@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/krishnakkarthik/.spottech/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/krishnakkarthik/.spottech/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+<html> 
+<head>
+  <meta charset="UTF-8">
+    <meta name = "description" content="Hi my namme is krishnakarthik i am learning html">
+  <title>NKK</title>
+</head>
+  <body style = "background-color: whitesmoke ; ">
+  <h1 style = "color: yellowgreen;font-family: cursive;"> Hello , this is  krishnakarthik </h1>
+    <hr>
+    <p style = "font-family: cursive; color : rosybrown;border :  green ; border-style: outset ; border-width: 3px;"> hello My name is krishna karthik i am studying in 10th class </p>
+    <p style = "color: red ; font-family: cursive;border : yellow; border-style: inset;">This is my youtube channel logo </p>
+    
+	<br>
+	<video  controls src="https://youtu.be/WmZkjWHnRNE"  width = "500px" height="380px" />
+	  
+	  </video
+	  
+	
+  </body>
+</html>
